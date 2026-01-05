@@ -1,7 +1,7 @@
 
-# Backend — WandAI RAG + Auto-Enrichment
+# Backend — RAG + Auto-Enrichment
 
-This backend powers the WandAI RAG + Auto-Enrichment platform, providing document ingestion, semantic search, conversational Q&A, auto-enrichment, and feedback APIs. It is built with FastAPI, PostgreSQL, Pinecone, and supports both local transformer and OpenAI models.
+This backend powers the   RAG + Auto-Enrichment platform, providing document ingestion, semantic search, conversational Q&A, auto-enrichment, and feedback APIs. It is built with FastAPI, PostgreSQL, Pinecone, and supports both local transformer and OpenAI models.
 
 ---
 

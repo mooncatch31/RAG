@@ -1,12 +1,12 @@
-# WandAI RAG + Auto-Enrichment
+#   RAG + Auto-Enrichment
 
-**WandAI RAG + Auto-Enrichment** is a modern, full-stack Retrieval-Augmented Generation (RAG) platform designed for practical, real-world document Q&A and enrichment workflows. This project combines a robust backend with a user-friendly frontend, enabling users to upload, manage, and chat with their documents, while leveraging both local and cloud AI capabilities.
+**  RAG + Auto-Enrichment** is a modern, full-stack Retrieval-Augmented Generation (RAG) platform designed for practical, real-world document Q&A and enrichment workflows. This project combines a robust backend with a user-friendly frontend, enabling users to upload, manage, and chat with their documents, while leveraging both local and cloud AI capabilities.
 
 ---
 
 ## Project Overview
 
-WandAI RAG + Auto-Enrichment provides an end-to-end solution for knowledge retrieval and conversational AI over your own documents. The system is built to be:
+  RAG + Auto-Enrichment provides an end-to-end solution for knowledge retrieval and conversational AI over your own documents. The system is built to be:
 
 - **Flexible:** Supports local transformer models for embeddings, with optional OpenAI integration for LLM answers.
 - **Extensible:** Auto-enrichment via trusted web sources (Google Custom Search) when local knowledge is insufficient.

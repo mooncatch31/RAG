@@ -1,6 +1,6 @@
-# WandAI RAG + Auto-Enrichment — Frontend
+#   RAG + Auto-Enrichment — Frontend
 
-This is the frontend for the WandAI RAG + Auto-Enrichment platform. It provides a modern, user-friendly interface for uploading documents, managing knowledge, and chatting with an AI assistant powered by your own data and trusted web sources.
+This is the frontend for the   RAG + Auto-Enrichment platform. It provides a modern, user-friendly interface for uploading documents, managing knowledge, and chatting with an AI assistant powered by your own data and trusted web sources.
 
 ---
 
