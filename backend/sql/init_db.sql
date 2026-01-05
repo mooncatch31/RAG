@@ -1,0 +1,3 @@
+CREATE USER kb_user WITH PASSWORD 'kb_pass';
+CREATE DATABASE kb_db OWNER kb_user;
+GRANT ALL PRIVILEGES ON DATABASE kb_db TO kb_user;
